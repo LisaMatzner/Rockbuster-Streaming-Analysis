@@ -1,10 +1,10 @@
 # Rockbuster Stealth Data Analysis Project (SQL)
 The Rockbuster Stealth Data Analysis is a portfolio project created in 2022. 
 
-For this project all of Rockbuster's data was loaded into a relational database management system and analyzed using SQL. The compiled results of the analysiswere presented to the management board.
+For this project, all of Rockbuster's data was loaded into a relational database management system and analyzed using SQL. The compiled results of the analysis were presented to the management board.
 
 ## Context
-Rockbuster Stealth LLC i s a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team i s planning to use i ts existing movie l icenses to launch an online video rental service in order to stay competitive.
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
 The business intelligence (BI) department needs help with the launch strategy for the new online video service. The BI department helps other departments, from inventory to customer insights, with data-related queries. To do that, the department needed to have the answers to a series of ad-hoc business questions that other departments may have.
 
