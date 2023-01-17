@@ -8,6 +8,8 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 The business intelligence (BI) department needs help with the launch strategy for the new online video service. The BI department helps other departments, from inventory to customer insights, with data-related queries. To do that, the department needed to have the answers to a series of ad-hoc business questions that other departments may have.
 
+In addition to the results of the key business questions, the final deliverables include a data dictionary.
+
 ## Key Questions
 Here are the main questions they’d like to answer:
 
