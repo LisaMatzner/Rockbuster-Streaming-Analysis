@@ -39,3 +39,6 @@ Excel
 
 All data used in this project is fabricated and is not liable to any PII (personal identifiable information) laws.
 
+## Additional Links
+[Interactive Tableau Visualizations](https://public.tableau.com/views/3_10RockbusterStealthLLC_Visualizations/CustomerandRevenueDistribution?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
