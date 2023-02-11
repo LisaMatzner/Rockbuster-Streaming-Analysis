@@ -29,9 +29,9 @@ Powerpoint
 Excel
 
 ## Data Citation
-"Rockbuster data set", Accessed from http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip on 2022-11-14.
+["Rockbuster data set"](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip), Last accessed on 2022-11-14.
 
-"Rockbuster PostgreSQL Database", Accessed from https://www.enterprisedb.com/downloads/postgres-postgresql-downloads on 2022-11-14.
+["Rockbuster PostgreSQL Database"](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads), Last accessed on 2022-11-14.
 
 All data used in this project is fabricated and is not liable to any PII (personal identifiable information) laws.
 
