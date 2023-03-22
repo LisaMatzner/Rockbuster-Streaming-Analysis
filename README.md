@@ -1,5 +1,4 @@
 # Rockbuster Stealth Data Analysis Project (SQL)
-The Rockbuster Stealth Data Analysis is a portfolio project created in 2022. 
 
 For this project, all of Rockbuster's data was loaded into a relational database management system and analyzed using SQL. The compiled results of the analysis were presented to the management board.
 
